@@ -1,0 +1,9 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ž§‘êÿÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(˜Õ½×
+z
+java:S1319"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(˜Õ½×
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Âêãþÿÿÿÿ
+_
+java:S2259"IA "NullPointerException" could be thrown; "typeOfCandy" is nullable here.(íÈ­Ö

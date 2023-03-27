@@ -1,0 +1,14 @@
+
+D
+java:S2140+")Use "java.util.Random.nextInt()" instead.(ÃÜÔÍøÿÿÿÿ
+D
+java:S2140+")Use "java.util.Random.nextInt()" instead.(ÃÜÔÍøÿÿÿÿ
+?
+java:S2140,")Use "java.util.Random.nextInt()" instead.(Ö½Ìæ
+?
+java:S2140,")Use "java.util.Random.nextInt()" instead.(Ö½Ìæ
+D
+java:S2140-")Use "java.util.Random.nextInt()" instead.(üß¿¿úÿÿÿÿ
+,
+java:S1700"Rename field "caramel"(ü˜³Á
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®Š«
